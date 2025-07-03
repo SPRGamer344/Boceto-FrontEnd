@@ -1,0 +1,38 @@
+#logotipo{
+    width: 150px;
+}
+
+#nombreEmpresa{
+    font-size: 20px;
+}
+
+#informativo h2{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+}
+#informativo p{
+    color: white;
+    font-size: 15px;
+    text-align: center;
+}
+
+#fotoNoticia{
+    width: 100%;
+    border-radius: 4px;
+    border: 5px solid aqua;
+}
+
+#fotoYo{
+    border: 3px solid black;
+}
+
+#bordeLogin{
+    border: 5px solid cyan;
+    border-radius: 10px;
+}
+
+#bordeGaleria{
+    border: 5px solid rgb(107, 107, 107);
+    border-radius: 10px;
+}
